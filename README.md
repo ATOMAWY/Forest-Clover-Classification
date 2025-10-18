@@ -73,8 +73,4 @@ Both models achieve high accuracy in predicting forest cover types:
 
 The feature importance analysis reveals that elevation, distance to water, and soil type are the most significant predictors.
 
-## 📝 License
-This project is open source and available under the MIT License.
 
-## 👤 Author
-Your Name - [GitHub Profile](https://github.com/YOUR_USERNAME)
